@@ -11,6 +11,7 @@ Katabasis
 
 Дневник разработки Katabasis'a велся в разделе для геймдизайнеров /gd/ Двача,
 https://2ch.hk/gd/res/796015.html#bottom
+
 ...а так же в блоге на DTF:
 https://dtf.ru/u/589610-katabaser
 
